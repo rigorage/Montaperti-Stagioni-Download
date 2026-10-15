@@ -4,7 +4,7 @@ Client Windows del gioco, separato da Montaperti RTS.
 
 [**Scarica il client completo dalla versione più recente**](https://github.com/rigorage/Montaperti-Stagioni-Download/releases/latest)
 
-1. Scarica **Montaperti-Stagioni-Windows-0.4.1.zip** (o la versione successiva).
+1. Scarica **Montaperti-Stagioni-Windows-0.4.2.zip** (o la versione successiva).
 2. Estrai **tutta** la cartella sul Desktop o in un'altra posizione.
 3. Apri **Montaperti Stagioni.exe**. Puoi creare un collegamento a questo file.
 
