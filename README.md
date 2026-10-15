@@ -4,7 +4,7 @@ Client Windows del gioco, separato da Montaperti RTS.
 
 [**Scarica il client completo dalla versione più recente**](https://github.com/rigorage/Montaperti-Stagioni-Download/releases/latest)
 
-1. Scarica **Montaperti-Stagioni-Windows-0.3.2.zip** (o la versione successiva).
+1. Scarica **Montaperti-Stagioni-Windows-0.3.3.zip** (o la versione successiva).
 2. Estrai **tutta** la cartella sul Desktop o in un'altra posizione.
 3. Apri **Montaperti Stagioni.exe**. Puoi creare un collegamento a questo file.
 
@@ -17,6 +17,6 @@ Per giocare online, una persona crea la stanza e condivide il codice; gli amici 
 
 Le preferenze sono in `%APPDATA%\MontapertiStagioni`; gli aggiornamenti in `%LOCALAPPDATA%\MontapertiStagioniUpdater`. Nessun file dell'RTS viene sostituito. Multiplayer verificato con quattro client sullo stesso PC; non ancora provato tra reti differenti. Il client non include un server TURN dedicato.
 
-Il vecchio launcher 0.3.1 installerà ancora automaticamente il primo passaggio alla 0.3.2; dalla 0.3.2 i successivi aggiornamenti richiedono conferma.
+Il vecchio launcher 0.3.1 installerà ancora automaticamente il primo aggiornamento disponibile; dalla 0.3.2 gli aggiornamenti richiedono conferma.
 
 Questo repository distribuisce il client e i relativi aggiornamenti. La firma dei pacchetti non è un certificato commerciale Windows.
